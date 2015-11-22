@@ -20,6 +20,7 @@ Marios-iMac:docker_whalesay_fortune mario$ docker run  mokolea/whalesay-fortune
         \    \        __/             
           \____\______/   
 Marios-iMac:docker_whalesay_fortune mario$ 
+
 Marios-iMac:docker_whalesay_fortune mario$ docker run mokolea/whalesay-fortune
  ________________________________________ 
 / Opportunities are usually disguised as \
@@ -38,6 +39,7 @@ Marios-iMac:docker_whalesay_fortune mario$ docker run mokolea/whalesay-fortune
         \    \        __/             
           \____\______/   
 Marios-iMac:docker_whalesay_fortune mario$ 
+
 Marios-iMac:docker_whalesay_fortune mario$ docker run mokolea/whalesay-fortune
  _________________________________________ 
 / Utility is when you have one telephone, \
