@@ -2,7 +2,7 @@
 Test docker tutorial...
 
 ```
-Marios-iMac:docker_whalesay_fortune mario$ docker run  mokolea/whalesay-fortune
+Marios-iMac:docker_whalesay_fortune mario$ docker run mokolea/whalesay-fortune
  ____________________ 
 / Vini, vidi, Linux! \
 |                    |
