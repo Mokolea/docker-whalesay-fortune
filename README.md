@@ -1,5 +1,5 @@
 # docker-whalesay-fortune
-Test docker tutorial...
+Test docker tutorial... (on Mac OS X using VirtualBox Linux VM)
 
 ```
 Marios-iMac:docker_whalesay_fortune mario$ docker run mokolea/whalesay-fortune
