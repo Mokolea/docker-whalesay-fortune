@@ -1,6 +1,6 @@
 # docker-whalesay-fortune [![Docker Automated Build](https://img.shields.io/docker/automated/mokolea/whalesay-fortune.svg)](https://cloud.docker.com/u/mokolea/repository/docker/mokolea/whalesay-fortune) [![Docker Build Status](https://img.shields.io/docker/build/mokolea/whalesay-fortune.svg)](https://cloud.docker.com/u/mokolea/repository/docker/mokolea/whalesay-fortune)
 
-Test docker tutorial... (on Mac OS X using VirtualBox Linux VM)
+Test docker tutorial... (2015-11, on Mac OS X using VirtualBox Linux VM)
 
 ```
 Marios-iMac:docker_whalesay_fortune mario$ docker run mokolea/whalesay-fortune
