@@ -1,4 +1,5 @@
-# docker-whalesay-fortune
+# docker-whalesay-fortune [![Docker Automated Build](https://img.shields.io/docker/automated/mokolea/whalesay-fortune.svg)](https://cloud.docker.com/u/mokolea/repository/docker/mokolea/whalesay-fortune) [![Docker Build Status](https://img.shields.io/docker/build/mokolea/whalesay-fortune.svg)](https://cloud.docker.com/u/mokolea/repository/docker/mokolea/whalesay-fortune)
+
 Test docker tutorial... (on Mac OS X using VirtualBox Linux VM)
 
 ```
